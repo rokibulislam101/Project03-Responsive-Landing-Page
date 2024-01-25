@@ -213,3 +213,12 @@ section {
     justify-content: center;
   }
 }
+
+/*  Large Veiw */
+@media screen and (min-width: 769px) {
+  .bonuscard {
+  position: absolute;
+  margin-left: 45%;
+  transform: translateY(-220px);
+}
+}
