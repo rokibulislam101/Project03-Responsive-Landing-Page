@@ -160,6 +160,11 @@ section {
   top: 40%;
 }
 
+/* Question Section Design */
+.que-img img {
+    width: 80%;
+  }
+
 /* Form Design */
 .form-control {
   background-color: #91919113;
@@ -203,6 +208,10 @@ section {
   right: 10%;
   top: 40%;
 }
+
+  .que-img img {
+    width: 100%;
+  }
 
   .foot-1 {
     text-align: center;
